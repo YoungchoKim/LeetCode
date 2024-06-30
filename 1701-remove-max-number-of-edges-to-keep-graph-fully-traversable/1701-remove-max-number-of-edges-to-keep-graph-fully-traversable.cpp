@@ -1,17 +1,18 @@
 
-vector<vector<int>> edgesType1;
-vector<vector<int>> edgesType2;
 
-bool cmp1(vector<int> &a, vector<int> &b){
-    return a[0] > b[0];
-}
-bool cmp2(vector<int> &a, vector<int> &b){
-    return a[0] > b[0];
-}
 class Solution {
 public:
     int u1[100001];
     int u2[100001];
+    
+    vector<vector<int>> edgesType1;
+    vector<vector<int>> edgesType2;
+    static bool cmp1(vector<int> &a, vector<int> &b){
+        return a[0] > b[0];
+    }
+    static bool cmp2(vector<int> &a, vector<int> &b){
+        return a[0] > b[0];
+    }
     int disjoint(int* u, int x){
         if(u[x] == x) return x;
         return u[x] = disjoint(u, u[x]);
