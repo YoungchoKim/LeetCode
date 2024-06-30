@@ -42,10 +42,6 @@ public:
         }
         sort(sortArray1, sortArray1 + edgesType1.size(), cmp1);
         sort(sortArray2, sortArray2 + edgesType2.size(), cmp2);
-        for(int i = 0 ; i < edgesType1.size(); i++){
-            int idx = sortArray1[i];
-            cout<< edgesType1[idx][0] << " " <<  edgesType1[idx][1] << " " << edgesType1[idx][2] << endl;
-        } 
 
         int type3 = 0;
         int cnt = 0;
@@ -64,9 +60,7 @@ public:
             }
             if (cnt == n -1) break;
         }
-        cout << "cnt: " << cnt << endl;
         if (cnt != n-1) return -1;
-        cout << "type3: " << type3 << endl;
         cnt = 0;
         for (int i = 0 ; i < edgesType2.size(); i++) {
             int idx = sortArray2[i];
@@ -80,9 +74,7 @@ public:
             u2[disjoint(u2, a)] = disjoint(u2, b);
             if (cnt == n -1) break;
         }
-        cout << "cnt: " << cnt << endl;
         if (cnt != n-1) return -1;
-        cout << "end" << endl;
 
         return edges.size() - (n - 1) - (n - 1) + type3;
     }
