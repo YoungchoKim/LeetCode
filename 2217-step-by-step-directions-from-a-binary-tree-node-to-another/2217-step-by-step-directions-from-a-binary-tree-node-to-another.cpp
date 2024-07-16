@@ -51,18 +51,6 @@ public:
         for(int i = cnt-1 ; i < rootToDestChar.size(); i++){
             res += rootToDestChar[i];
         }
-
-        for(int i = 0 ; i < rootToStart.size(); i++){
-            cout << rootToStart[i] << " ";
-        } 
-        cout << endl;
-        
-        for(int i = 0 ; i < rootToDest.size(); i++){
-            cout << rootToDest[i] << " ";
-        } 
-        for(int i = 0 ; i < rootToDestChar.size(); i++){
-            cout << rootToDestChar[i] << " ";
-        }
         return res;
     }
 };
