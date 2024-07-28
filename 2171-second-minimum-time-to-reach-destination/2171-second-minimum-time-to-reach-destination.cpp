@@ -57,7 +57,6 @@ struct _heap{
 class Solution {
 public:
     _heap<NODE> h;
-    queue<NODE> q;
     vector<int> visited[10001];
     vector<int> adj[10001];
     int secondMinimum(int n, vector<vector<int>>& edges, int time, int change) {
