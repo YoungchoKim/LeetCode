@@ -62,36 +62,8 @@ public:
                     map[i][j] = 1;
                 }
             }
-            for(int i = 0 ; i < R ; i++){
-                for(int j = 0 ; j < C; j++){
-                    if(map[i][j] == 1 && closeWater(i, j)){
-                        map[i][j] = 3;
-                    }
-                }
-            }
-            for(int i = 0 ; i < R ; i++){
-                for(int j = 0 ; j < C; j++){
-                    if(map[i][j] == 3){
-                        map[i][j] = 1;
-                        int tmpCnt = getIsland();
-                        if(tmpCnt != 1) return ans + 2;
-                        map[i][j] = 3;
-                    }
-                }
-            }
-
-            for(int i = 0 ; i < R ; i++){
-                for(int j = 0 ; j < C; j++){
-                    if(map[i][j] == 3){
-                        map[i][j] = 0;
-                    }
-                }
-            }
-            
-
-
-            ans += 2;
-            island_cnt = getIsland();
+           
+            return 2;
         }
         
         return ans;
