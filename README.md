@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YoungchoKim/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/YoungchoKim/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/YoungchoKim/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/YoungchoKim/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/YoungchoKim/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/YoungchoKim/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/YoungchoKim/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/YoungchoKim/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/YoungchoKim/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/YoungchoKim/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
