@@ -41,7 +41,7 @@ struct _heap{
 class Solution {
 public:
     _heap pq;
-    map<long long, bool> processed;
+    unordered_map<long long, bool> processed;
     int nthUglyNumber(int n) {
         if (n == 1) return 1;
         int idx = 1;
@@ -54,7 +54,6 @@ public:
                 continue;
             }
             processed[num] = true;
-            cout << num << endl;
             pq.push(num*2);
             pq.push(num*3);
             pq.push(num*5);
