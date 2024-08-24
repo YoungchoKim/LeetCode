@@ -65,7 +65,6 @@ public:
         number[0] = preStr1 + postStr1;
         number[1] = preStr2 + postStr2;
         number[2] = preStr3 + postStr3;
-        cout << number[0] << " " << number[1] << " " << number[2] << endl;
         diff[0] = abs(strToInt(number[0]) - N);
         diff[1] = abs(strToInt(number[1]) - N);
         diff[2] = abs(strToInt(number[2]) - N);
