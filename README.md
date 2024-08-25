@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YoungchoKim/LeetCode/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/YoungchoKim/LeetCode/tree/master/0726-number-of-atoms) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YoungchoKim/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/YoungchoKim/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/YoungchoKim/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YoungchoKim/LeetCode/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/YoungchoKim/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/YoungchoKim/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/YoungchoKim/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
