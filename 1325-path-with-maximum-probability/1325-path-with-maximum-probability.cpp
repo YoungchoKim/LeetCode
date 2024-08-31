@@ -41,6 +41,7 @@ public:
                 q.push({nextNod.nod, nod.probSum * nextNod.prob});
             }
         }
+        
         return ans;
 
     }
