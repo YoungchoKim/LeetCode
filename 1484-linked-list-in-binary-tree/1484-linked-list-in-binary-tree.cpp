@@ -56,9 +56,6 @@ public:
             }
             pi[i] = match;
         }
-        for(int i = 0 ; i < listNode.size(); i++){
-            cout << listNode[i] << " " << pi[i] << endl;
-        }
         if (traversal(root, 0)){
             return true;
         }
