@@ -18,12 +18,8 @@ public:
         int dx[] = {1, 0, -1, 0};
         R = m;
         C = n;
-        for(int i = 0 ; i < m; i++){
-            ans.push_back(vector<int>());
-            for(int j = 0; j < n ; j++){
-                ans[i].push_back(-1);
-            }
-        }
+
+        vector<vector<int>> ans(m, vector<int>(n, -1));
         int r = 0;
         int c = 0;
         int dir = 0;
