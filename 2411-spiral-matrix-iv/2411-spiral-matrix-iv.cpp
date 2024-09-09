@@ -13,7 +13,6 @@ public:
     vector<vector<int>> ans;
     
     int R, C;
-    bool visited[100001];
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
         int dy[] = {0, 1, 0, -1};
         int dx[] = {1, 0, -1, 0};
@@ -30,10 +29,9 @@ public:
         int dir = 0;
         while(head){
             ans[r][c] = head->val;
-            visited[r*C + c] = true;
             int nr = r + dy[dir];
             int nc = c + dx[dir];
-            if (nr < 0 || nr >= R || nc < 0 || nc >= C || visited[nr*C + nc]){
+            if (nr < 0 || nr >= R || nc < 0 || nc >= C || ans[nr][nc] != -1){
                 dir = (dir + 1) %4;
                 nr = r + dy[dir];
                 nc = c + dx[dir];
