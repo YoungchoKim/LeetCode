@@ -19,8 +19,7 @@ public:
         while(ptr->next != nullptr){
             int a = ptr->val;
             int b = ptr->next->val;
-            ListNode* newNode = new ListNode(_gcd(a, b));
-            newNode->next = ptr->next;
+            ListNode* newNode = new ListNode(_gcd(a, b), ptr->next);
             ptr->next = newNode;
             ptr = newNode->next;
         }
