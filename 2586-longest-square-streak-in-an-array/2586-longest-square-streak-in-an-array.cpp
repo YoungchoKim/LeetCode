@@ -5,6 +5,7 @@ public:
         for(int i = 0 ; i < nums.size(); i++){
             isNum[nums[i]] = true;
         }
+        
         int ans = -1;
         for(int i = 0 ; i < 100001; i++){
             if (!isNum[i]) continue;
