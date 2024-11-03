@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/YoungchoKim/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/YoungchoKim/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/YoungchoKim/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/YoungchoKim/LeetCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/YoungchoKim/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/YoungchoKim/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/YoungchoKim/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/YoungchoKim/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/YoungchoKim/LeetCode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/YoungchoKim/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YoungchoKim/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/YoungchoKim/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
