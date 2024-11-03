@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/YoungchoKim/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/YoungchoKim/LeetCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/YoungchoKim/LeetCode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/YoungchoKim/LeetCode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/YoungchoKim/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YoungchoKim/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/YoungchoKim/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -558,4 +559,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/YoungchoKim/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/YoungchoKim/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
