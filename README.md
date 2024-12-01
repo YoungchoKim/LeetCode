@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/YoungchoKim/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/YoungchoKim/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/YoungchoKim/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YoungchoKim/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/YoungchoKim/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/YoungchoKim/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/YoungchoKim/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/YoungchoKim/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/YoungchoKim/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/YoungchoKim/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YoungchoKim/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/YoungchoKim/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/YoungchoKim/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/YoungchoKim/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/YoungchoKim/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/YoungchoKim/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YoungchoKim/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/YoungchoKim/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/YoungchoKim/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/YoungchoKim/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/YoungchoKim/LeetCode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/YoungchoKim/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YoungchoKim/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/YoungchoKim/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/YoungchoKim/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YoungchoKim/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -248,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/YoungchoKim/LeetCode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/YoungchoKim/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/YoungchoKim/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YoungchoKim/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/YoungchoKim/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/YoungchoKim/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YoungchoKim/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
