@@ -7,7 +7,7 @@ public:
         for(int i = arr.size()-1; i >= 0; i--){
             if(st.empty()){
                 st.push_back(arr[i]);
-                rightMin[i] = 100000000;
+                rightMin[i] = arr.size();
             } else if(arr[i] < st.back()){
                 rightMin[i] = st.back();
                 st.push_back(arr[i]);
