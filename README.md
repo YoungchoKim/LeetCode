@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/YoungchoKim/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/YoungchoKim/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/YoungchoKim/LeetCode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/YoungchoKim/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/YoungchoKim/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/YoungchoKim/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YoungchoKim/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/YoungchoKim/LeetCode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/YoungchoKim/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/YoungchoKim/LeetCode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/YoungchoKim/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -657,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/YoungchoKim/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/YoungchoKim/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Prefix Sum
 |  |
