@@ -1,15 +1,26 @@
 class Solution {
 public:
+    int ltor[2000];
+    int rtol[2000];
     vector<int> minOperations(string boxes) {
         vector<int> ans;
-        for(int i = 0 ; i < boxes.size(); i++){
-            int operation = 0;
-            for(int j = 0 ; j < boxes.size(); j++){
-                if(i == j || boxes[j] == '0') continue;
-                operation += abs(i - j);
+        int oneCnt = 0;
+        for(int i = 0 ; i < boxes.size() - 1; i++){
+            if(boxes[i] == '1'){
+                oneCnt++;
             }
-            ans.push_back(operation);
-        }    
+            ltor[i+1] = ltor[i] + oneCnt;
+        }
+        oneCnt = 0;
+        for(int i = boxes.size() - 1; i > 0 ; i--){
+            if(boxes[i] == '1'){
+                oneCnt++;
+            }
+            rtol[i-1] = rtol[i] + oneCnt;
+        }
+        for(int i = 0 ; i < boxes.size(); i++){
+            ans.push_back(ltor[i] + rtol[i]);
+        }
         return ans;
     }
 };
