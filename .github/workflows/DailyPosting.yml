@@ -1,7 +1,7 @@
 name: Auto Posting
 on:
-  workflow_dispatch
-  # push
+  push
+  # workflow_dispatch
 
 jobs:
   PostTistory:
