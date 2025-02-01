@@ -12,5 +12,6 @@ jobs:
       with:
         repository: YoungchoKim/AutoPosting
         ref: main
-      # env: 
-        # token: ${{ secrets.GIT_TOKEN }}
+    - name: "run script"
+      run: ls -al
+      
