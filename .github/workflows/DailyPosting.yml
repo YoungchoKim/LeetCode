@@ -1,0 +1,17 @@
+name: Auto Posting
+
+on:
+  workflow_dispatch
+  # push
+
+jobs:
+  PostTistory:
+    runs-on: self-hosted
+    steps:
+    - name: "clone project"
+      uses: actions/checkout@v3
+      with:
+        repository: YoungchoKim/AutoPosting
+        ref: main
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
