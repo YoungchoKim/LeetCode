@@ -9,7 +9,7 @@ jobs:
     runs-on: self-hosted
     steps:
     - name: "clone auto posting project"
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: YoungchoKim/AutoPosting
         ref: main
