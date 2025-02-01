@@ -12,6 +12,12 @@ jobs:
       with:
         repository: YoungchoKim/AutoPosting
         ref: main
+    - name: "create virtual environments"
+      run: python3 -m venv venv
+    - name: "run venv"
+      run: source venv/bin/activate
+    - name: "install packages"
+      run: python3 -m pip install -r requirements.txt
     - name: "run script"
-      run: ls -al
+      run: python3 sync_one_day.py
       
