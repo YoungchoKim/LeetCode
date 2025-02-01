@@ -13,7 +13,7 @@ jobs:
         repository: YoungchoKim/AutoPosting
         ref: main
     - name: "cp config file"
-      run: cp $CFG_FILE_PATH ./
+      run: cp $CFG_FILE_PATH ./config.json
     - name: "create virtual environments"
       run: python3 -m venv venv
     - name: "run venv"
