@@ -1,7 +1,4 @@
 name: Auto Posting
-permissions:
-  contents: read
-  packages: write
 on:
   workflow_dispatch
   # push
@@ -15,5 +12,5 @@ jobs:
       with:
         repository: YoungchoKim/AutoPosting
         ref: main
-      env: 
-        token: ${{ secrets.GIT_TOKEN }}
+      # env: 
+        # token: ${{ secrets.GIT_TOKEN }}
