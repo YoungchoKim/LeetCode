@@ -1,0 +1,24 @@
+name: Daily Check 10 Problems
+on:
+  schedule:
+    - cron: '0 22 * * *'
+
+jobs:
+  PostTistory:
+    runs-on: self-hosted
+    steps:
+    - name: "clone auto posting project"
+      uses: actions/checkout@v4
+      with:
+        repository: YoungchoKim/AutoPosting
+        ref: main
+    - name: "cp config file"
+      run: cp ${{vars.CFG_FILE_PATH}} ./config.json
+    - name: "create virtual environments"
+      run: python3 -m venv venv
+    - name: "run venv"
+      run: source venv/bin/activate
+    - name: "install packages"
+      run: python3 -m pip install -r requirements.txt
+    - name: "run script"
+      run: python3 sync_all_day.py ${{vars.START_DATE}}
