@@ -1,7 +1,8 @@
 name: Daily Check 10 Problems
 on:
-  schedule:
-    - cron: '0 22 * * *'
+  workflow_dispatch
+  # schedule:
+  #   - cron: '0 22 * * *'
 
 jobs:
   PostTistory:
