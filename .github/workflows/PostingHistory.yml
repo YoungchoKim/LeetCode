@@ -22,4 +22,4 @@ jobs:
     - name: "install packages"
       run: python3 -m pip install -r requirements.txt
     - name: "run script"
-      run: python3 sync_all_day.py ${{vars.START_DATE}}
+      run: python3 sync_all_day.py --start_date=${{vars.START_DATE}}
