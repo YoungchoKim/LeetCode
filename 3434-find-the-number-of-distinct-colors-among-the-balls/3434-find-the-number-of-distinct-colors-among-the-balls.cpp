@@ -12,11 +12,9 @@ public:
                 ans.push_back(colornum);
                 continue;
             }
-            if (colorCnt[curColor[idx]] > 0){
-                colorCnt[curColor[idx]]--;
-                if(colorCnt[curColor[idx]] == 0){
-                    colornum--;
-                }
+            colorCnt[curColor[idx]]--;
+            if(colorCnt[curColor[idx]] == 0){
+                colornum--;
             }
             if(colorCnt[color] == 0){
                 colornum++;
