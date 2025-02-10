@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/YoungchoKim/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/YoungchoKim/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/YoungchoKim/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/YoungchoKim/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/YoungchoKim/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/YoungchoKim/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/YoungchoKim/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/YoungchoKim/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/YoungchoKim/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/YoungchoKim/LeetCode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/YoungchoKim/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/YoungchoKim/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/YoungchoKim/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/YoungchoKim/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
