@@ -52,7 +52,6 @@ public:
             long long x = pq.pop();
             if (x >= k) break;
             long long y = pq.pop();
-            cout << x << " " << y << endl;
             pq.push(min(x, y)*2 + max(x, y));
             cnt++;
         }
