@@ -5,8 +5,7 @@ public:
         int r = 1000000000;
         int ans = 0;
         while(l <= r){
-            // int mid = l + ((r - l) >> 1);
-            int mid = (l + r)/2;
+            int mid = l + ((r - l) >> 1);
             int cnt = 0;
             for(int i = 0 ; i < nums.size(); i++){
                 if(nums[i] <= mid){
