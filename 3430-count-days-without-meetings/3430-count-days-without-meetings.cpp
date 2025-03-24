@@ -9,7 +9,6 @@ public:
         for(int i = 1 ; i < meetings.size(); i++){
             int ll = meetings[i][0];
             int rr = meetings[i][1];
-            cout << ll << " " << rr << endl;
             if(r < ll){
                 ans += ll - r - 1;
             }
