@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/YoungchoKim/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/YoungchoKim/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/YoungchoKim/LeetCode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/YoungchoKim/LeetCode/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/YoungchoKim/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/YoungchoKim/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/YoungchoKim/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/YoungchoKim/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/YoungchoKim/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/YoungchoKim/LeetCode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YoungchoKim/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/YoungchoKim/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/YoungchoKim/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/YoungchoKim/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/YoungchoKim/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/YoungchoKim/LeetCode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/YoungchoKim/LeetCode/tree/master/0768-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/YoungchoKim/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/YoungchoKim/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/YoungchoKim/LeetCode/tree/master/1304-longest-happy-string) |
@@ -534,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/YoungchoKim/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/YoungchoKim/LeetCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/YoungchoKim/LeetCode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/YoungchoKim/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/YoungchoKim/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/YoungchoKim/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/YoungchoKim/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
