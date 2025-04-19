@@ -32,6 +32,7 @@ public:
             if(low<=up){
                 ans += up - low + 1;
             }
+            
         }
         return ans;
     }
